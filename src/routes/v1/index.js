@@ -41,6 +41,10 @@ const defaultRoutes = [
     path: '/projects',
     route: projectRoute, // Projects Route Path
   },
+  {
+    path: '/docs',
+    route: docsRoute, // APIs Documentation Route Path
+  },
 ];
 
 const devRoutes = [
